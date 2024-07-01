@@ -1,7 +1,76 @@
+header {
+	text-align: center;
+}
+
 table {
-	border: 1px solid black;	
+	border: 1px solid black;
+	width: 100%;
 }
 
 table tbody tr td {
 	padding: 10px;
+	white-space: break-spaces;
+}
+
+td#edited-marked {
+	text-align: center;
+}
+
+td#deleted-marked {
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+}
+
+img {
+	width: 125px;
+}
+
+td#name {
+	width: 150px;
+}
+
+td#username {
+	width: 125px;
+	line-break: anywhere;
+}
+
+td#datetime {
+	width: 180px;
+}
+
+td#message {
+	width: 500px;
+}
+
+#msgcontent {
+	word-break: break-word;
+	overflow-wrap: break-word;
+}
+
+td#att {
+	line-break: anywhere;
+	width: 200px;
+}
+
+td#att_prev {
+	width: 125px;
+}
+
+td#edited {
+	width: 55px;
+}
+
+td#deleted {
+	width: 55px;
+}
+
+td#edited-marked {
+	width: 55px;
+}
+
+td#deleted-marked {
+	width: 55px;
 }
