@@ -1,4 +1,4 @@
-# Mattermost Channel Exporter
+# Mattermost Channel Exporter v1
 
 This is a channel export/archival script written for the communications software Mattermost.  The official channel export plugin requires a license to use.  This fully defeats the purpose of Free & Open-Source Software (FOSS) so I wrote my own export script.
 
