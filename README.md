@@ -17,4 +17,4 @@ Enter the ID of a channel on your Mattermost instance and click Submit.  The scr
 
 ## Disclaimer
 
-Playing around in your Mattermost SQL database can be extremely dangerous if you don't know what you're doing.  Make all changes with caution, keep backups, and RTFM!
+Playing around in your Mattermost SQL database can be extremely dangerous if you don't know what you're doing.  Make all changes with caution, keep backups, and please read the docs!
